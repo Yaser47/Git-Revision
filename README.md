@@ -17,3 +17,5 @@ _This is text italicized_
 **This is _extremely_ important**
 
 **_All this text is important_**
+
+> This text is a quote
