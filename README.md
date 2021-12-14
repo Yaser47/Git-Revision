@@ -58,3 +58,5 @@ You can also use words, to fit your writing style more closely[^note].
 [^1]: My Training.
 
 [^2]: HTMl/ CSS.
+
+[^3]: JavaScript.
