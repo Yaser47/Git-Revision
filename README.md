@@ -48,3 +48,7 @@ This is Youtube site [Youtube](https://www.youtube.com/)
 Okay :+1: This is look great :shipit:.
 
 The heart :heartpulse:.
+
+Here is a simple footnote[^1].
+
+A footnote can have a multiple lines[^2].
