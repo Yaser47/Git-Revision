@@ -61,3 +61,5 @@ You can also use words, to fit your writing style more closely[^note].
 
 Self development *always training* and *Yaser*.
 
+Self development \*always training\* and \*Yaser\*.
+
