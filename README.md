@@ -19,3 +19,5 @@ _This is text italicized_
 **_All this text is important_**
 
 > This text is a quote
+
+This site was built using [GitHub Pages](https://pages.github.com/)
