@@ -7,3 +7,7 @@ Revision The Git Course
 ### Test
 
 #### Revision
+
+**This is bold text**
+
+_This is text italicized_
