@@ -14,4 +14,6 @@ _This is text italicized_
 
 ~~This is mistaken text~~
 
-**This is _extremely_ important**  
+**This is _extremely_ important**
+
+**_All this text is important_**
