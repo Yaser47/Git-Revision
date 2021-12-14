@@ -11,3 +11,5 @@ Revision The Git Course
 **This is bold text**
 
 _This is text italicized_
+
+~~This is mistaken text~~
