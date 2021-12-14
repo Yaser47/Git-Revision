@@ -52,3 +52,5 @@ The heart :heartpulse:.
 Here is a simple footnote[^1].
 
 A footnote can have a multiple lines[^2].
+
+You can also use words, to fit your writing style more closely[^note].
