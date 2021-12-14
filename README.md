@@ -13,3 +13,5 @@ Revision The Git Course
 _This is text italicized_
 
 ~~This is mistaken text~~
+
+**This is _extremely_ important**  
