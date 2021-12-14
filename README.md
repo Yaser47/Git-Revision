@@ -55,7 +55,7 @@ A footnote can have a multiple lines[^2].
 
 You can also use words, to fit your writing style more closely[^note].
 
-[^1]: My Training.
+<!-- [^1]: My Training. -->
 
 [^2]: HTMl/ CSS.
 
