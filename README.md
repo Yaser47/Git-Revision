@@ -60,3 +60,6 @@ You can also use words, to fit your writing style more closely[^note].
 [^2]: HTMl/ CSS.
 
 [^3]: JavaScript.
+
+Self development *always training* and *Yaser*.
+
