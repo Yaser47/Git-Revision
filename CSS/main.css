@@ -5,3 +5,7 @@ body {
 	color: white;
 	background-color: red;
 }
+
+div {
+	padding: 10px;
+}
